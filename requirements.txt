@@ -1,0 +1,14 @@
+# 星尘吞噬者 (Stardust Devourer) - 依赖环境
+# Python 3.10+ 推荐（开发环境：Python 3.12.7）
+
+# 游戏引擎
+pygame==2.6.1
+
+# 数值/音频合成
+numpy==1.26.4
+
+# 摄像头/图像处理（手势识别辅助）
+opencv-python==4.11.0
+
+# 手势识别
+mediapipe==0.10.35
