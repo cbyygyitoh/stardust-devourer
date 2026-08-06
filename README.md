@@ -158,6 +158,8 @@
 ---
 ## 🎬 演示示例
 
+视频地址：
+https://www.bilibili.com/video/BV1nEuE6LELE/?spm_id_from=333.1387.list.card_archive.click&vd_source=3c76ecd2c109ce7e482d67d92f326b98
 
 ---
 
