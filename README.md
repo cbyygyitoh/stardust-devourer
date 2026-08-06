@@ -227,6 +227,19 @@ python stardust_devourer.py
 
 ---
 
+## 兑换码福利说明
+
+<img width="1440" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba0b8888-10a9-40e7-aaf7-6edd79f7a1a2" />
+
+
+获得获得300金+15钻+霜冻冰魄+九幽魔君：
+<img width="1440" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b0ff2bb-f415-459e-82e6-4e6bb344e762" />
+
+
+获得500金+50钻+太上无极+不灭尊者：
+<img width="1440" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca0f7d8f-423a-427a-8a09-7d139a6aacc4" />
+
+
 ## 🙏 致谢
 
 - [Pygame](https://www.pygame.org/) — 强大的游戏开发框架
