@@ -208,11 +208,16 @@ python stardust_devourer.py
 - ✅ 进度导入/导出
 - ✅ 兑换码系统
 
-## ⚠️ 当前版本说明
+## ⚠️ 当前发行版本说明
 
 ### 手势控制暂不可用
 
 由于 `MediaPipe` 和 `TensorFlow` 依赖库体积过大（约 **1-2GB**），打包后严重影响下载和启动效率，当前 Windows 发行版**暂不支持手势控制功能**。
+
+若需切换手势运行的版本，请用源码运行。按下大写的H即可切换操作模式。
+随后弹出摄像头，用食指操控即可。
+<img width="1442" height="1134" alt="image" src="https://github.com/user-attachments/assets/5f14ceef-0c09-49d4-b881-2ab947fdfc2e" />
+
 
 **推荐使用以下方式游玩：**
 
@@ -254,11 +259,19 @@ python stardust_devourer.py
 
 ---
 
-## 📧 联系方式
+## 🤝 一起改进
 
-- GitHub: [@cbyygyitoh](https://github.com/cbyygyitoh)
-- 项目地址: [https://github.com/cbyygyitoh/stardust-devourer](https://github.com/cbyygyitoh/stardust-devourer)
+这个项目是我利用课余时间独立开发的，目前还有很多不完善的地方：
 
----
+- 代码结构有待优化
+- 部分功能尚未完善
+- 可能存在一些未发现的Bug
 
-**如果觉得这个项目不错，别忘了给个 ⭐ Star 支持一下！**
+**非常欢迎各位大佬提出改进建议！**
+
+如果你对项目感兴趣，可以：
+
+- 🐛 提交 Issue 反馈问题
+- 🔧 Fork 项目并提交 PR
+- 💡 提出功能建议或优化方案
+- ⭐ Star 支持一下（给我一点动力）
