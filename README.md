@@ -241,6 +241,11 @@ python stardust_devourer.py
 获得500金+50钻+太上无极+不灭尊者：
 <img width="1440" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca0f7d8f-423a-427a-8a09-7d139a6aacc4" />
 
+## 满级配置说明
+下载文件[满级配置](stardust_save.json)，单击“导入进度”进而导入该json文件
+<img width="1440" height="1080" alt="image" src="https://github.com/user-attachments/assets/9fd5636f-a143-4d29-9dd8-df7f333ea11b" />
+即可解锁全关卡，并拥有无限钻石、无限金币、全皮肤
+若无法导入，可单击“f2”键进行作弊，破解效果同上句。
 
 ## 🙏 致谢
 
